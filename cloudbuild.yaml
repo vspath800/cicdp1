@@ -22,3 +22,5 @@ steps:
 
 images:
 - 'gcr.io/gcp-class-1-427416/cicdp1image:v1.0'
+options:
+  logging: CLOUD_LOGGING_ONLY
