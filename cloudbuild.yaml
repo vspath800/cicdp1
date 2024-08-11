@@ -24,4 +24,3 @@ images:
 - 'gcr.io/gcp-class-1-427416/cicdp1image:$COMMIT_SHA'
 options:
   logging: CLOUD_LOGGING_ONLY
-timeout:1600s
